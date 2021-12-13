@@ -31,7 +31,7 @@
 > I am not responsible for your actions, burp-suite freezing, target getting hacked, thermonuclear war, or the current economic crisis caused by you following these directions. YOU are choosing to use this tool, and if you point your finger at me for messing anything up, I will LMAO at you.
 
 ---
-![Log4J-Scanner](https://github.com/0xDexter0us/Log4J-Scanner/images/log4j-scanner.png)
+![Log4J-Scanner](https://github.com/0xDexter0us/Log4J-Scanner/blob/main/images/log4j-scanner.png)
 
 ## Instructions:
  - Add a DNS token from any service you prefer [interact.sh](https://app.interactsh.com), [pipedream](https://pipedream.com), [canarytokens](https://canarytokens.org), [dnslog.cn](https://dnslog.cn) or burp collaborator.
@@ -46,7 +46,7 @@
  - You'll need [Logger++](https://github.com/nccgroup/LoggerPlusPlus) or [Flow](https://github.com/hvqzao/burp-flow) extension to trace the request triggering the DNS callback.
  - Remember to add this extension above [Logger++](https://github.com/nccgroup/LoggerPlusPlus) or [Flow](https://github.com/hvqzao/burp-flow) to track all out going requests.
 
- ![Burp-Externder](https://github.com/0xDexter0us/Log4J-Scanner/images/extender.png)
+ ![Burp-Externder](https://github.com/0xDexter0us/Log4J-Scanner/blob/main/images/extender.png)
 
 ### How to track callbacks:
 
