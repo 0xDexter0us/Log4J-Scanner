@@ -110,7 +110,7 @@ class Log4JTab: JPanel(), ActionListener {
         }
         scanButton.addActionListener(this)
 
-        val cancelImage = loadImage("htp.png")
+        val cancelImage = loadImage("cancel.png")
         when {
             cancelImage != null -> {
                 cancelButton = JButton("Cancel", cancelImage)
