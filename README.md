@@ -34,6 +34,7 @@
 ![Log4J-Scanner](https://github.com/0xDexter0us/Log4J-Scanner/blob/main/images/log4j-scanner.png)
 
 ## Instructions:
+ - You need to have a burp project with pre-existing history, it replays requests with payloads.
  - Add a DNS token from any service you prefer [interact.sh](https://app.interactsh.com), [pipedream](https://pipedream.com), [canarytokens](https://canarytokens.org), [dnslog.cn](https://dnslog.cn) or burp collaborator.
  - Either select one of the pre-defined payload or add a custom payload.
  - Add custom payload as: `${jndi:ldap://[dnstoken]/[random]` as `dnstoken`and `random` are place-holders, also remember __NOT__ to add `}`closing curly bracket.
