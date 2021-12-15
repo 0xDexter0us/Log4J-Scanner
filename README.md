@@ -11,6 +11,9 @@
   <a href="https://github.com/0xDexter0us/Log4J-Scanner/releases">
     <img src="https://img.shields.io/github/release/0xDexter0us/Log4J-Scanner.svg">
   </a>
+  <a href="https://github.com/0xDexter0us/Log4J-Scanner/releases">
+    <img src="https://img.shields.io/github/downloads/0xDexter0us/Log4J-Scanner/total?label=downloads&logo=github&color=inactive" alt="github downloads">
+  </a>
   <a href="https://github.com/0xDexter0us/Log4J-Scanner/">
       <img src="https://img.shields.io/github/stars/0xDexter0us/Log4J-Scanner.svg?style=social&label=Stars">
   </a>
