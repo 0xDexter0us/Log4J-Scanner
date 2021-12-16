@@ -1,13 +1,4 @@
-<h1 align="center">
-  <br>
-  Log4J Scanner
-</h1>
-
-<h4 align="center">Burp extension to scan Log4Shell (CVE-2021-44228) vulnerability pre and post auth.</h4>
-
----
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/0xDexter0us/Log4J-Scanner/releases">
     <img src="https://img.shields.io/github/release/0xDexter0us/Log4J-Scanner.svg">
   </a>
@@ -28,10 +19,15 @@
   </a>
 
 </p>
+<h1 align="center">
+<img src="images/log4j scanner.png" width="500" align="middle" style="vertical-align:top" >
+ </h1>
+
+<h4 align="center">Burp extension to scan Log4Shell (CVE-2021-44228) vulnerability pre and post auth.</h4>
 
 ---
 ## Disclaimer
-> I am not responsible for your actions, burp-suite freezing, target getting hacked, thermonuclear war, or the current economic crisis caused by you following these directions. YOU are choosing to use this tool, and if you point your finger at me for messing anything up, I will LMAO at you.
+> I am not responsible for your actions, burp-suite freezing, target getting hacked, thermonuclear war, or the current economic crisis caused by you following these directions. __YOU__ are choosing to use this tool, and if you point your finger at me for messing anything up, I will __LMAO__ at you.
 
 ---
 ![Log4J-Scanner](https://github.com/0xDexter0us/Log4J-Scanner/blob/main/images/log4j-scanner.png)
@@ -45,7 +41,7 @@
  - For post-auth scanning add the complete cookie, auth header. Eg: `Authorization: Bearer ya29.m.CvkBAd1XLWYfLkuHFIuOYFCfcGI137rr...`
  - Hit **Hack The Planet** button.
 
-### Important instructions to remember:
+## Important instructions to follow:
 
  - You'll need [Logger++](https://github.com/nccgroup/LoggerPlusPlus) or [Flow](https://github.com/hvqzao/burp-flow) extension to trace the request triggering the DNS callback.
  - Remember to add this extension above [Logger++](https://github.com/nccgroup/LoggerPlusPlus) or [Flow](https://github.com/hvqzao/burp-flow) to track all out going requests.
