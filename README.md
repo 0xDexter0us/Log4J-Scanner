@@ -1,13 +1,4 @@
-<h1 align="center">
-  <br>
-  Log4J Scanner
-</h1>
-
-<h4 align="center">Burp extension to scan Log4Shell (CVE-2021-44228) vulnerability with custom payloads.</h4>
-
----
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/0xDexter0us/Log4J-Scanner/releases">
     <img src="https://img.shields.io/github/release/0xDexter0us/Log4J-Scanner.svg">
   </a>
@@ -26,14 +17,20 @@
   <a href="https://discord.gg/bugbounty">
       <img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg">
   </a>
-
 </p>
+<h1 align="center">
+  <a href="https://github.com/0xDexter0us/Log4J-Scanner"><img src="https://github.com/aadarsh-screamy/Log4J-Scanner/raw/main/images/log4j%20scanner.png"  alt="log4j" width="450" align="middle" style="vertical-align:top"></a>
+</h1>
+
+<h4 align="center">Burp extension to scan Log4Shell (CVE-2021-44228) vulnerability with custom payloads.</h4>
+
+
 
 ---
 ## Disclaimer
 > I am not responsible for your actions, burp-suite freezing, target getting hacked, thermonuclear war, or the current economic crisis caused by you following these directions. YOU are choosing to use this tool, and if you point your finger at me for messing anything up, I will LMAO at you.
 
----
+## Usage
 ![Usage Gif](https://github.com/0xDexter0us/Log4J-Scanner/raw/main/images/useage.gif)
 
 ## Instructions:
@@ -90,7 +87,7 @@ Special thanks to [Silent Signal](https://github.com/silentsignal), instructions
 * Silent Signal - https://github.com/silentsignal
 
 
-### This was coded be me within a day and is an initial release, bug might occur, bug reports, suggestions and pull requests all are welcome :)
+### This was coded by me within a day of it's initial release, some bugs might occur, bug reports, suggestions and pull requests all are welcome :)
 
 -----
 
