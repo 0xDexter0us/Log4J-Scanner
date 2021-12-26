@@ -34,7 +34,7 @@
 > I am not responsible for your actions, burp-suite freezing, target getting hacked, thermonuclear war, or the current economic crisis caused by you following these directions. YOU are choosing to use this tool, and if you point your finger at me for messing anything up, I will LMAO at you.
 
 ---
-![Usage Gif](https://github.com/0xDexter0us/Log4J-Scanner/blob/main/images/usage.gif)
+![Usage Gif](https://github.com/0xDexter0us/Log4J-Scanner/raw/main/images/useage.gif)
 
 ## Instructions:
  - Install the extension either from pre-compiled releases or build from source.
