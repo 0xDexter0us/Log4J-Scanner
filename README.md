@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/0xDexter0us/Log4J-Scanner"><img src="https://github.com/0xDexter0us/Log4J-Scanner/blob/main/images/log4j-scanner.png"  alt="log4j" width="450" align="middle" style="vertical-align:top"></a>
+  <a href="https://github.com/0xDexter0us/Log4J-Scanner"><img src="https://raw.githubusercontent.com/0xDexter0us/Log4J-Scanner/main/images/log4j-scanner.png"  alt="log4j" width="450" align="middle" style="vertical-align:top"></a>
 </h1>
 
 <h4 align="center">Burp extension to scan Log4Shell (CVE-2021-44228) vulnerability with custom payloads.</h4>
@@ -33,7 +33,7 @@
 > I am not responsible for your actions, burp-suite freezing, target getting hacked, thermonuclear war, or the current economic crisis caused by you following these directions. YOU are choosing to use this tool, and if you point your finger at me for messing anything up, I will LMAO at you.
 
 ---
-![Usage Gif](https://github.com/0xDexter0us/Log4J-Scanner/blob/main/images/usage.gif)
+![Usage Gif](https://raw.githubusercontent.com/0xDexter0us/Log4J-Scanner/main/images/useage.gif)
 
 ## Instructions:
  - Install the extension either from pre-compiled releases or build from source.
